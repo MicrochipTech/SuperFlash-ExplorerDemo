@@ -5,31 +5,6 @@
  * Hardware:        Explorer 16 demo board, Truly TSB1G7000 LCD
  * Compiler:        MPLAB X IDE v1.41 + XC16 v1.10 C Compiler
  / *********************************************************************
- * Company:         Microchip Technology, Inc.
- *
- * Software License Agreement
- *
- * "Microchip Technology Inc." ("Microchip") licenses this software to you 
- * solely for use with Microchip's Serial RTCC products.  
- * The software is owned by Microchip and/or its licensors, and is protected 
- * under applicable copyright laws.  All rights reserved.
- *
- * SOFTWARE IS PROVIDED "AS IS."  MICROCHIP AND ITS LICENSOR EXPRESSLY 
- * DISCLAIM ANY WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING 
- * BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS 
- * FOR A PARTICULAR PURPOSE,OR NON-INFRINGEMENT. IN NO EVENT SHALL MICROCHIP 
- * AND ITS LICENSORS BE LIABLE FOR ANY STARTIDENTAL, SPECIAL, INDIRECT OR 
- * CONSEQUENTIAL DAMAGES, LOST PROFITS OR LOST DATA, HARM TO YOUR EQUIPMENT, 
- * COST OF PROCUREMENT OF SUBSTITUTE GOODS, TECHNOLOGY OR SERVICES, ANY 
- * CLAIMS BY THIRD PARTIES (INCLUDING BUT NOT LIMITED TO ANY DEFENSE 
- * THEREOF), ANY CLAIMS FOR INDEMNITY OR CONTRIBUTION, OR OTHER SIMILAR COSTS."
- *
- * Author               Date       Comment
- *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- * Alexandru Valeanu    	   Initial release for LUMEX LCD (Explorer 18 demo board)
- * Eugen Ionescu       10/04/2012  Ported to Explorer 16 demo board (Truly TSB1G7000 LCD)
- *
- ****************************************************************************************/
 
 
 
