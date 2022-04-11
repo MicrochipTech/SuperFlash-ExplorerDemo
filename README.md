@@ -1,5 +1,7 @@
 # SuperFlash® Chip Erase Timing Demo
 
+![Hardware Photo](https://github.com/MicrochipTech/SuperFlash-ExplorerDemo/blob/05bcd506098254609ccc1250bb4667c536a98dee/docs/media/photo.jpg)
+
 ## Overview of Demo
 
 Invented by Silicon Storage Technologies (SST) and later acquired by Microchip, SuperFlash® technology is an innovative flash memory technology providing erase times up to 1,000 times faster than competing flash memory technologies on the market. This demo illustrates this significant speed advantage by allowing the user to perform chip erase operations on serial flash memory devices while the board measures the erase time in real-time. (Flash memory devices feature multiple erase functions for various regions of memory. Chip erase was chosen for this demo as it requires the longest time, and therefore has the maximum impact.) The intent is to measure the timing of Microchip devices alongside various competitor devices so that the customer can see the difference first-hand. The table below lists the supported flash devices from Microchip and competitors. It includes the typical chip erase times measured on the devices to indicate the general range of timing to expect.
